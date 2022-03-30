@@ -6,7 +6,7 @@ OWNER = [hunter4345]
 # DATOS DEL MOODLE
 USUARIO = 'amtoj18000'
 MOODLE_PASSWORD = 'RiedeL26.27*'
-USUARIO_ID =  20703 #Tu id de la nube
+USUARIO_ID =  5 #Tu id de la nube
 ZIP_MB = 250
 MOODLE_URL = 'aulacened.uci.cu'
 
