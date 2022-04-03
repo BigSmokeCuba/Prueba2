@@ -4,11 +4,11 @@ API_HASH = 'd54fb55f472038b4dbd93eb85333234e'  # lo creas en https://my.telegram
 OWNER = [1791698696]
 
 # DATOS DEL MOODLE
-USUARIO = 'karina-marrera'
-MOODLE_PASSWORD = 'kari0829'
-USUARIO_ID =  6187 #Tu id de la nube
-ZIP_MB = 150
-MOODLE_URL = 'https://eduvirtual.uho.edu.cu/'
+USUARIO = 'lpvidal'
+MOODLE_PASSWORD = 'tele123#'
+USUARIO_ID =  10217 #Tu id de la nube
+ZIP_MB = 398
+MOODLE_URL = 'https://moodle.uclv.edu.cu'
 
 # CUENTA DE MEGA - este bot sirve par mega tambien
 GMAIL_MEGA = '@gmail.com' 
