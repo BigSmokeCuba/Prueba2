@@ -1,14 +1,14 @@
-BOT_TOKEN = '5167642424:AAFLzd5mphPRA3YbjuRUCmPjDEbz16Rz4H0' #token de tu bot
-API_ID = 17232014 # lo creas en https://my.telegram.org/
-API_HASH = '5eb747e0b34842c90a32af2df2364e32'  # lo creas en https://my.telegram.org/
-OWNER = [hunter4345]
+BOT_TOKEN = '5152848717:AAGUUIM2kOJFM9bCz-6Dyodrnpr46lBpNG0' #token de tu bot
+API_ID = 15604626 # lo creas en https://my.telegram.org/
+API_HASH = 'd54fb55f472038b4dbd93eb85333234e'  # lo creas en https://my.telegram.org/
+OWNER = [1791698696]
 
 # DATOS DEL MOODLE
-USUARIO = 'amtoj18000'
-MOODLE_PASSWORD = 'RiedeL26.27*'
-USUARIO_ID =  5 #Tu id de la nube
-ZIP_MB = 250
-MOODLE_URL = 'aulacened.uci.cu'
+USUARIO = 'lpvidal'
+MOODLE_PASSWORD = 'tele123#'
+USUARIO_ID =  10217 #Tu id de la nube
+ZIP_MB = 398
+MOODLE_URL = 'https://moodle.uclv.edu.cu'
 
 # CUENTA DE MEGA - este bot sirve par mega tambien
 GMAIL_MEGA = '@gmail.com' 
