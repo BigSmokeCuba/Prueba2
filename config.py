@@ -7,8 +7,8 @@ OWNER = [1791698696]
 USUARIO = 'karina-marrera'
 MOODLE_PASSWORD = 'kari0829'
 USUARIO_ID =  6187 #Tu id de la nube
-ZIP_MB = 500
-MOODLE_URL = 'https://eduvirtual.uho.edu.cu'
+ZIP_MB = 150
+MOODLE_URL = 'https://eduvirtual.uho.edu.cu/'
 
 # CUENTA DE MEGA - este bot sirve par mega tambien
 GMAIL_MEGA = '@gmail.com' 
