@@ -6,7 +6,7 @@ OWNER = [811906873]
 # DATOS DEL MOODLE
 USUARIO = 'ana-ramos'
 MOODLE_PASSWORD = 'mausi199#'
-USUARIO_ID =  3 #Tu id de la nube
+USUARIO_ID = 41166 #Tu id de la nube
 ZIP_MB = 100
 MOODLE_URL = 'https://eduvirtual.uho.edu.cu/'
 
