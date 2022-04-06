@@ -6,7 +6,7 @@ OWNER = [811906873]
 # DATOS DEL MOODLE
 USUARIO = 'lpvidal'
 MOODLE_PASSWORD = 'tele123#'
-USUARIO_ID =  10217 #Tu id de la nube
+USUARIO_ID =  4 #Tu id de la nube
 ZIP_MB = 398
 MOODLE_URL = 'https://moodle.uclv.edu.cu'
 
