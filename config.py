@@ -1,7 +1,7 @@
-BOT_TOKEN = '5152848717:AAGUUIM2kOJFM9bCz-6Dyodrnpr46lBpNG0' #token de tu bot
-API_ID = 15604626 # lo creas en https://my.telegram.org/
-API_HASH = 'd54fb55f472038b4dbd93eb85333234e'  # lo creas en https://my.telegram.org/
-OWNER = [1791698696]
+BOT_TOKEN = '5212171704:AAFIFKVlClHOdmBAdxf_YN9VNCSByQBQwYQ' #token de tu bot
+API_ID = 13193029 # lo creas en https://my.telegram.org/
+API_HASH = '03bca249fdbe6824b1ca6d928a2e60ee'  # lo creas en https://my.telegram.org/
+OWNER = [811906873]
 
 # DATOS DEL MOODLE
 USUARIO = 'lpvidal'
